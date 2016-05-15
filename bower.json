@@ -1,0 +1,17 @@
+{
+  "name": "rexValidate",
+  "authors": [
+    "Stuart McCamley <s.mccamley@gmail.com>"
+  ],
+  "description": "A validation library for angular",
+  "main": "",
+  "license": "ITrex",
+  "homepage": "http://itrex.co.uk",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
